@@ -1,0 +1,4 @@
+# Githib will override theese fields to theese values, so anyway...
+safe: true
+lsi: false
+pygments: true
